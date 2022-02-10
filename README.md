@@ -7,8 +7,9 @@ Counter Pressure Beer filler
 ## Counter Pressure parts
 - 30cm PE-slang 3/8" (6,7 x 9,5 mm)
 - 1 pcs silikonpropp 22/17 mm
+- Football pump needle
 - 50cm luftslang 4/6 mm - Transparent
-- Ball valve needle
+
 
 ## Picnic tap
 
