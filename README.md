@@ -4,7 +4,7 @@ Counter Pressure Beer filler
 ![img](https://github.com/tedelm/ManualFiller/blob/main/img/img0002.jpg)
 ![img](https://github.com/tedelm/ManualFiller/blob/main/img/img0001.jpg)
 ![img](https://github.com/tedelm/ManualFiller/blob/main/img/can_filler_001.jpg)
-
+![img](https://github.com/tedelm/ManualFiller/blob/main/img/can_filler_002.jpg)
 
 # Parts list 
 
